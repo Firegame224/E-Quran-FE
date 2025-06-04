@@ -90,7 +90,7 @@
 				>
 					<p class="w-20 text-sm text-gray-400">{surah.nomor}:{ayat.nomorAyat}</p>
 					<div class="flex w-full items-center justify-end">
-						<p class="max-w-full text-right text-2xl break-words text-white">{ayat.teksArab}</p>
+						<p class="max-w-full text-right text-lg md:text-2xl break-words text-white">{ayat.teksArab}</p>
 					</div>
 					<div class="mt-2 flex w-full flex-col gap-2">
 						<p class="w-full text-left text-sm font-semibold text-green-600 md:pr-5">

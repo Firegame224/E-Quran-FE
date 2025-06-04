@@ -17,7 +17,7 @@
 
 <main class="h-full w-full">
 	<div class="flex w-full items-center justify-center p-5">
-		<div class="flex h-10 w-1/3 items-center justify-center">
+		<div class="flex h-10 w-full md:w-1/3 items-center justify-center">
 			<div
 				class="flex h-full w-[10%] items-center justify-center rounded-l-sm border border-white bg-white text-black"
 			>
