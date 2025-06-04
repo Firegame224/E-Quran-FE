@@ -11,7 +11,7 @@
 		>
 			<div class="flex w-[12%] items-center">
 				<div
-					class="flex h-10 w-10 rotate-45 items-center justify-center rounded-sm bg-gray-600 transition duration-700 group-hover:bg-cyan-400"
+					class="flex h-10 w-10 rotate-45 items-center justify-center rounded-sm bg-gray-600 transition duration-700 group-hover:bg-green-600"
 				>
 					<p
 						class="-rotate-45 font-semibold text-white transition duration-700 group-hover:text-black"
@@ -24,7 +24,7 @@
 				<div class="flex flex-col items-start justify-between">
 					<p class="text-sm font-bold text-white">{Quran.namaLatin}</p>
 					<p
-						class="text-xs font-semibold text-gray-500 transition duration-700 group-hover:text-cyan-400"
+						class="text-xs font-semibold text-gray-500 transition duration-700 group-hover:text-green-600"
 					>
 						{Quran.arti}
 					</p>
@@ -32,7 +32,7 @@
 				<div class="flex flex-col items-center justify-between">
 					<p class="text-sm font-bold text-white">{Quran.nama}</p>
 					<p
-						class="text-xs font-semibold text-gray-500 transition duration-700 group-hover:text-cyan-400"
+						class="text-xs font-semibold text-gray-500 transition duration-700 group-hover:text-green-600"
 					>
 						{Quran.jumlahAyat} ayat
 					</p>

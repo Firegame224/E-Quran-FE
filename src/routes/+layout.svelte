@@ -4,6 +4,9 @@
 
 	let { children } = $props();
 </script>
+<svelte:head>
+	
+</svelte:head>
 
 <div class="w-full flex flex-col min-h-screen bg-[#202124]">
 <Navbar/>
